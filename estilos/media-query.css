@@ -8,7 +8,7 @@ Desktops, large screens – 1025px — 1200px.
 Extra large screens, TV – 1201px, and more.
 */
 
-@media screen and (min-width: 481px) and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 800px) {
 
     :root {
         --gray: #808080ff;
@@ -44,7 +44,7 @@ Extra large screens, TV – 1201px, and more.
     }
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 801px) {
 
     :root {
         --gray: #808080ff;
